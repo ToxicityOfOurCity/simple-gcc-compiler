@@ -4,6 +4,11 @@ GCC Compiler GUI is a simple, Windows-focused graphical interface for compiling 
 
 You can select a source file, choose where the output executable should be saved, enable common GCC flags, and compile your code with a single click. The app displays the full compilation output and errors in a live log window, making it easy to debug issues without leaving the interface.
 
+---
+
+# DOWNLOADS
+
+**WARNING: YOU NEED TO HAVE GCC INSTALLED VIA MINGW + PUT IT IN YOUR SYSTEM'S PATH IN ORDER FOR THIS TO WORK**
 The download is only but a .exe, which you can download from [HERE.](https://github.com/ToxicityOfOurCity/simple-gcc-compiler/releases/tag/release)
 
 ---
