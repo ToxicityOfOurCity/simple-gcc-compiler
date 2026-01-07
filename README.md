@@ -9,6 +9,7 @@ You can select a source file, choose where the output executable should be saved
 # DOWNLOADS
 
 **WARNING: YOU NEED TO HAVE GCC INSTALLED VIA MINGW + PUT IT IN YOUR SYSTEM'S PATH IN ORDER FOR THIS TO WORK**
+
 The download is only but a .exe, which you can download from [HERE.](https://github.com/ToxicityOfOurCity/simple-gcc-compiler/releases/tag/release)
 
 ---
