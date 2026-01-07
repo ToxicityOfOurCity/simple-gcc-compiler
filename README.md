@@ -52,14 +52,26 @@ This tool is intended for learning, educational use, and small projects, especia
 
 # IMAGES 
 
+---
+
 ![alt=fullwindow](./images/fullwindow.png)
+
 The full window and GUI of the App.
 
+---
+
 ![alt=flags](./images/flags.png)
+
 Current supported flags for compilation ( I'm aware they're not many. )
 
+---
+
 ![alt=logs](./images/compiler-logs.png)
+
 Compiler logs from the app when i used a test .c programm to compile into an .exe
 
+---
+
 ![alt=pref](./images/preferences.png)
+
 The Preferences tab, where people can save their input/output dirs using a config.JSON saved in the app-data.
